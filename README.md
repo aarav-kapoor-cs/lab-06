@@ -1,8 +1,8 @@
 # CMPUT 301: Lab 6 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Aarav Kapoor>`
-- **CCID:** `<aarav4>`
+- **Full Name:** `Aarav Kapoor`
+- **CCID:** `aarav4`
 
 ## References and Resources
 `N/A`
